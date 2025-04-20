@@ -31,10 +31,7 @@ The **What I Hover** extension helps you inspect and copy the tag, ID, class, an
 ## 📸 Screenshots
 
 ### 👀 Hovered Element Inspector
-![Inspector Box Screenshot](path/to/screenshot1.png)
-
-### ⚡ Extension in Action
-![Extension Screenshot](path/to/screenshot2.png)
+![image](https://github.com/user-attachments/assets/a8cd8767-e0b9-432e-85e6-697d0fd9065e)
 
 ## 🤝 Contributing
 
