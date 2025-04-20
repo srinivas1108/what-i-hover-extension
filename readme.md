@@ -37,4 +37,4 @@ This extension only runs locally on the pages you interact with. No data is stor
 
 ---
 
-## 🧑‍💻 Made by [Your Name](https://yourwebsite.com)
+## 🧑‍💻 Made by [Sai Srinivas Mekala](https://in.linkedin.com/in/saisrinivasmekala)
