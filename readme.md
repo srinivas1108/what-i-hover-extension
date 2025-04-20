@@ -9,11 +9,6 @@ The **What I Hover** extension helps you inspect and copy the tag, ID, class, an
 - 🎨 View key CSS styles for the element, including color, font size, background, padding, etc.
 - 📋 Copy element selector to clipboard with a single click.
 - ⏸️ Pause content updates while holding the **Shift** key.
-## 🎥 Demo Video
-
-Check out the demo video of the extension in action:
-
-[![What I Hover Extension Demo](https://drive.google.com/file/d/1thiMT8HrMKuEnrV-6O4U6Etmu3RlOLxZ/view?usp=sharing)
 
 ## 📥 Installation
 
