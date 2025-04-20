@@ -1,0 +1,28 @@
+#hover-inspector-tooltip {
+  position: absolute;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  z-index: 9999;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+  max-width: 300px;
+  resize: both;
+  overflow: auto;
+}
+@media (prefers-color-scheme: dark) {
+  #hover-inspector-tooltip {
+    background-color: #1e1e1e;
+    color: #eee;
+    border-color: #444;
+  }
+}
+#hover-inspector-tooltip button {
+  margin-left: 4px;
+  font-size: 12px;
+}
+#hover-inspector-tooltip details {
+  margin-top: 6px;
+}
