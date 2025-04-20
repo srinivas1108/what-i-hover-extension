@@ -13,7 +13,7 @@ The **What I Hover** extension helps you inspect and copy the tag, ID, class, an
 ## 📥 Installation
 
 1. **Download the extension** from Google Drive:  
-   [Download What I Hover Extension](https://drive.google.com/file/d/1-UFdc4sY-9-qvnYfBeLPzwQSoiw0vIAO/view?usp=sharing) 📂
+   [Download What I Hover Extension](https://drive.google.com/file/d/1-UFdc4sY-9-qvnYfBeLPzwQSoiw0vIAO/view) 📂
 
 2. **Install the extension**:
    - Download the `.zip` file from the link above.
