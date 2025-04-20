@@ -1,40 +1,48 @@
-# 🧐 Hover Inspector Chrome Extension
+# 🚀 **What I Hover Extension** 
 
-**Hover Inspector** is a simple Chrome extension that shows information about any HTML element you hover over — including tag, ID, classes, styles, and text content — in a floating draggable box. Press `Shift` to freeze the data and copy the selector.
+## ✨ Description
+The **What I Hover** extension helps you inspect and copy the tag, ID, class, and content of any hovered element on a webpage. It also displays key CSS styles for that element. This tool is perfect for developers and designers who need to quickly gather information about elements on a page.
 
----
+## 🛠️ Features
+- 🔍 Inspect hovered elements on any webpage.
+- 🏷️ Display tag, ID, class, and content of the element.
+- 🎨 View key CSS styles for the element, including color, font size, background, padding, etc.
+- 📋 Copy element selector to clipboard with a single click.
+- ⏸️ Pause content updates while holding the **Shift** key.
 
-## ⚙️ Features
+## 📥 Installation
 
-- Displays tag, ID, class, and content on hover
-- Shows computed styles like font size, color, padding, margin, etc.
-- Draggable floating inspector box
-- Press `Shift` to freeze and copy selector
-- Lightweight, no performance lag
+1. **Download the extension** from Google Drive:  
+   [Download What I Hover Extension](https://drive.google.com/file/d/1-UFdc4sY-9-qvnYfBeLPzwQSoiw0vIAO/view?usp=sharing) 📂
 
----
+2. **Install the extension**:
+   - Download the `.zip` file from the link above.
+   - Extract the contents to a folder on your computer.
+   - Open **Chrome** and go to the **Extensions** page (`chrome://extensions/`).
+   - Enable **Developer mode** in the top-right corner 🛠️.
+   - Click on **Load unpacked** and select the folder where you extracted the extension 📁.
 
-## 📦 How to Install (for developers)
+3. **Activate the extension** by clicking the extension icon in the toolbar 🔑.
 
-1. Clone or download this repo
-2. Open `chrome://extensions` in Chrome
-3. Enable **Developer Mode** (top right)
-4. Click **Load Unpacked**
-5. Select this folder
-6. Done!
+4. **Usage**:
+   - Hover over any element on a webpage, and the inspector box will show detailed information about the element 🧐.
+   - To copy the element's selector, click the "Copy Selector" button 🖱️.
 
----
+## 📸 Screenshots
 
-## 📤 Share & Contribute
+### 👀 Hovered Element Inspector
+![Inspector Box Screenshot](path/to/screenshot1.png)
 
-Feel free to fork and improve! Got a feature idea? Submit a PR or open an issue.
+### ⚡ Extension in Action
+![Extension Screenshot](path/to/screenshot2.png)
 
----
+## 🤝 Contributing
 
-## 🔒 Permissions
+If you'd like to contribute to this project:
+1. 🍴 Fork the repository.
+2. 🛠️ Create a new branch (`git checkout -b feature-branch`).
+3. ✍️ Commit your changes (`git commit -am 'Add feature'`).
+4. ⬆️ Push to the branch (`git push origin feature-branch`).
+5. 🔀 Open a pull request.
 
-This extension only runs locally on the pages you interact with. No data is stored or sent anywhere.
 
----
-
-## 🧑‍💻 Made by [Sai Srinivas Mekala](https://in.linkedin.com/in/saisrinivasmekala)
